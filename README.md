@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jitendrapatel088
+- 👋 Hi, I’m Jitendra Patel
 - 👀 I’m interested in Devops and Security
 - 🌱 I’m currently learning DevOps tools
 - 💞️ I’m looking to collaborate on DevOps
