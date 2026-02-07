@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jitendra Patel
-- 👀 I’m interested in Devops and Security
-- 🌱 I’m currently learning DevOps tools
+- 👀 I’m interested in Devops and Network/Cloud Security
+- 🌱 I’m currently working in Wipro LTD as Network Security Consultant
 - 💞️ I’m looking to collaborate on DevOps
 
 
