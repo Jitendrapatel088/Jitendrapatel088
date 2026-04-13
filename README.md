@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jitendra Patel
-- 👀 I’m interested in Devops and Network/Cloud Security
-- 🌱 I’m currently working in Wipro LTD as Network Security Consultant
-- 💞️ I’m looking to collaborate on DevOps
+- 👀 I’m interested in Network/Cloud Security
+- 🌱 I’m currently working in Dell Technologies as Security Consultant
+- 💞️ Highly experienced Network Security Engineer with over 12+ years of expertise in designing, implementing, and managing enterprise-grade security solutions across on-premises and cloud environments. Proven expertise in Palo Alto, Juniper SRX, VMware NSX-T, and Prisma Access (SASE). Strong hands-on experience in automation using Terraform, centralized management platforms, and large-scale firewall deployments.
 
 
 <!---
